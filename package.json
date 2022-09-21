@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-nomani",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomani113/nodejs-nomani.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nomani113/nodejs-nomani/issues"
+  },
+  "homepage": "https://github.com/nomani113/nodejs-nomani#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
